@@ -20,6 +20,6 @@ The model is built using **ResNet18**, trained on digit datasets, and fine-tuned
 Due to large file sizes, the project files are hosted externally.  
 You can access the full project using the following link:  
 
-🔗 **[Download Project Files]([YOUR_PROJECT_LINK_HERE](https://drive.google.com/file/d/1DPZVJZxlYjzwAHFujZPc7J95Vh2c9QRy/view?usp=sharing))**  
+🔗 [Download Project Files](https://drive.google.com/file/d/1DPZVJZxlYjzwAHFujZPc7J95Vh2c9QRy/view?usp=sharing)
 
 
